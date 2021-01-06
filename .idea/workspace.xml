@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c6960ca-975e-41e6-8bea-a0c01dc8bb96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1YHYbEyWfBKQ7ypTaWeOTERSq6Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="whatsapp-bot" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/Rhymen/go-whatsapp/examples/receiveMessages" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="95" key="#GOROOT" timestamp="1582667530281">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="95" key="#GOROOT/0.0.1368.872@0.0.1368.872" timestamp="1582667530281" />
+    <state x="277" y="95" key="#Go_Modules_(vgo)" timestamp="1582601073316">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="95" key="#Go_Modules_(vgo)/0.0.1368.872@0.0.1368.872" timestamp="1582601073316" />
+    <state x="140" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582601144438">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="140" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1582601144438" />
+    <state x="403" y="81" key="#go_build_main.go" timestamp="1582625884931">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="403" y="81" key="#go_build_main.go/0.0.1368.872@0.0.1368.872" timestamp="1582625884931" />
+    <state x="306" y="31" key="CommitChangelistDialog2" timestamp="1582618689678">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="306" y="31" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1582618689678" />
+    <state x="465" y="192" key="FileChooserDialogImpl" timestamp="1582667618722">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1582667618722" />
+    <state width="1326" height="157" key="GridCell.Tab.0.bottom" timestamp="1582663120527">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582663120527" />
+    <state width="1326" height="157" key="GridCell.Tab.0.center" timestamp="1582663120526">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582663120526" />
+    <state width="1326" height="157" key="GridCell.Tab.0.left" timestamp="1582663120526">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582663120526" />
+    <state width="1326" height="157" key="GridCell.Tab.0.right" timestamp="1582663120526">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582663120526" />
+    <state width="1326" height="157" key="GridCell.Tab.1.bottom" timestamp="1582663120527">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582663120527" />
+    <state width="1326" height="157" key="GridCell.Tab.1.center" timestamp="1582663120527">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582663120527" />
+    <state width="1326" height="157" key="GridCell.Tab.1.left" timestamp="1582663120527">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582663120527" />
+    <state width="1326" height="157" key="GridCell.Tab.1.right" timestamp="1582663120527">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="157" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582663120527" />
+    <state x="186" y="79" key="SettingsEditor" timestamp="1582663071823">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="79" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1582663071823" />
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1582663523060">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="347" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1582663523060" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file:$PROJECT_DIR$/../../../../../..////wsl$/Ubuntu-18.04/home/reski/experiment/whatsapp-bot/main.go</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file:$PROJECT_DIR$/../../../../../..////wsl$/Ubuntu-18.04/home/reski/experiment/whatsapp-bot/main.go</url>
+          <line>239</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
